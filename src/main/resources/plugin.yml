@@ -1,0 +1,4 @@
+name: 'ConfigShare'
+main: 'main.ConfigSync'
+version: '0.0.1-PRE-ALPHA'
+author: 'Stormtrooper_007'
